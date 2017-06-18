@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Spaceship", "Spaceship.vcxproj", "{471224DA-536A-4D98-B636-230B963CFBBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{471224DA-536A-4D98-B636-230B963CFBBB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{471224DA-536A-4D98-B636-230B963CFBBB}.Debug|Win32.Build.0 = Debug|Win32
+		{471224DA-536A-4D98-B636-230B963CFBBB}.Debug|x64.ActiveCfg = Debug|Win32
+		{471224DA-536A-4D98-B636-230B963CFBBB}.Release|Win32.ActiveCfg = Release|Win32
+		{471224DA-536A-4D98-B636-230B963CFBBB}.Release|Win32.Build.0 = Release|Win32
+		{471224DA-536A-4D98-B636-230B963CFBBB}.Release|x64.ActiveCfg = Release|Win32
+		{471224DA-536A-4D98-B636-230B963CFBBB}.Release|x64.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
