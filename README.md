@@ -1,7 +1,8 @@
 ROLES :
-145150201111083 Muhammad Yudha Yusi Putra
-145150201111080 Ditya Enandini Palupi
-135150207111101 Naufal Rizky Akbar
+
+145150201111083 Muhammad Yudha Yusi Putra ,
+145150201111080 Ditya Enandini Palupi ,
+135150207111101 Naufal Rizky Akbar ,
 
 Programmer, Muhammad Yudha Yusi Putra
 Trailer & Publishing, Ditya Enandini Palupi
